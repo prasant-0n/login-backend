@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AuthX - Professional Authentication Backend
 
 A comprehensive, production-ready authentication backend built with Node.js, Express, TypeScript, and MongoDB. AuthX provides a complete authentication solution with OAuth support, email verification, password reset, and role-based access control.
@@ -419,3 +420,6 @@ If you encounter any issues or have questions:
 ---
 
 **AuthX** - Professional Authentication Backend for Modern Web Applications
+=======
+# login-backend
+>>>>>>> a361ba93bbb32a09f9a174544935226aa45be022
